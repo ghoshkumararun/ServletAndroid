@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\workspace\\git\\androidStudio\\Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hello.xml",
+        "source": "C:\\workspace\\git\\androidStudio\\Hello\\app\\src\\main\\res\\layout\\activity_hello.xml"
+    },
+    {
+        "merged": "C:\\workspace\\git\\androidStudio\\Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\workspace\\git\\androidStudio\\Hello\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\workspace\\git\\androidStudio\\Hello\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_loading.xml",
+        "source": "C:\\workspace\\git\\androidStudio\\Hello\\app\\src\\main\\res\\layout\\layout_loading.xml"
+    }
+]
